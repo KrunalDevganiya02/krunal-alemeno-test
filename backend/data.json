@@ -1,0 +1,149 @@
+[
+    {
+      "courseId": 1,
+      "courseTitle": "Introduction to Programming",
+      "courseDescription": "Learn the fundamentals of programming with this beginner-friendly course.",
+      "instructor": {
+        "name": "John Doe",
+        "rating": 4.8,
+        "profilePicture": "https://example.com/instructors/john-doe.jpg"
+      },
+      "duration": "4 weeks",
+      "totalHours": 40,
+      "price": 49.99,
+      "currency": "USD",
+      "language": "English",
+      "level": "Beginner",
+      "thumbnail": "https://example.com/intro-to-programming.jpg",
+      "topics": [
+        "Programming Basics",
+        "Variables and Data Types",
+        "Control Structures",
+        "Functions"
+      ]
+    },
+    {
+      "courseId": 2,
+      "courseTitle": "Web Development Bootcamp",
+      "courseDescription": "Become a full-stack web developer with this comprehensive bootcamp.",
+      "instructor": {
+        "name": "Jane Smith",
+        "rating": 4.9,
+        "profilePicture": "https://example.com/instructors/jane-smith.jpg"
+      },
+      "duration": "12 weeks",
+      "totalHours": 120,
+      "price": 199.99,
+      "currency": "USD",
+      "language": "English",
+      "level": "Intermediate",
+      "thumbnail": "https://example.com/web-dev-bootcamp.png",
+      "topics": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ]
+    },
+    {
+      "courseId": 3,
+      "courseTitle": "Data Science with Python",
+      "courseDescription": "Gain practical skills in data analysis, machine learning, and data visualization using Python.",
+      "instructor": {
+        "name": "Mike Johnson",
+        "rating": 4.7,
+        "profilePicture": "https://example.com/instructors/mike-johnson.jpg"
+      },
+      "duration": "8 weeks",
+      "totalHours": 80,
+      "price": 129.99,
+      "currency": "USD",
+      "language": "English",
+      "level": "Intermediate",
+      "thumbnail": "https://example.com/data-science-python.jpg",
+      "topics": [
+        "Python Programming",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Scikit-learn",
+        "Machine Learning"
+      ]
+    },
+    {
+      "courseId": 4,
+      "courseTitle": "UI/UX Design Fundamentals",
+      "courseDescription": "Learn the principles of user interface and user experience design in this hands-on course.",
+      "instructor": {
+        "name": "Emily Davis",
+        "rating": 4.6,
+        "profilePicture": "https://example.com/instructors/emily-davis.jpg"
+      },
+      "duration": "6 weeks",
+      "totalHours": 60,
+      "price": 89.99,
+      "currency": "USD",
+      "language": "English",
+      "level": "Beginner",
+      "thumbnail": "https://example.com/ui-ux-design.png",
+      "topics": [
+        "Design Thinking",
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Usability Testing"
+      ]
+    },
+    {
+      "courseId": 5,
+      "courseTitle": "Digital Marketing Mastery",
+      "courseDescription": "Learn the essential strategies and tactics for successful digital marketing campaigns.",
+      "instructor": {
+        "name": "Sarah Lee",
+        "rating": 4.9,
+        "profilePicture": "https://example.com/instructors/sarah-lee.jpg"
+      },
+      "duration": "10 weeks",
+      "totalHours": 100,
+      "price": 149.99,
+      "currency": "USD",
+      "language": "English",
+      "level": "Intermediate",
+      "thumbnail": "https://example.com/digital-marketing.jpg",
+      "topics": [
+        "Search Engine Optimization (SEO)",
+        "Pay-Per-Click (PPC) Advertising",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Content Marketing",
+        "Analytics and Reporting"
+      ]
+    },
+    {
+      "courseId": 6,
+      "courseTitle": "Cybersecurity Essentials",
+      "courseDescription": "Develop a strong foundation in cybersecurity principles and practices to protect digital assets.",
+      "instructor": {
+        "name": "David Kim",
+        "rating": 4.8,
+        "profilePicture": "https://example.com/instructors/david-kim.jpg"
+      },
+      "duration": "8 weeks",
+      "totalHours": 80,
+      "price": 99.99,
+      "currency": "USD",
+      "language": "English",
+      "level": "Beginner",
+      "thumbnail": "https://example.com/cybersecurity.png",
+      "topics": [
+        "Network Security",
+        "Cryptography",
+        "Threat Analysis",
+        "Incident Response",
+        "Security Policies and Procedures"
+      ]
+    }
+  ]

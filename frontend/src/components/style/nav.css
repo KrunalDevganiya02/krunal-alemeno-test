@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(28, 97, 156, 0.5);
+}
+ul,
+li {
+  display: flex;
+  list-style: none;
+  margin-left: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+}
